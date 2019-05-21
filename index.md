@@ -6,11 +6,11 @@ description: ""
 permalink: /
 ---
 
-# Le Guide des bourses
+# Le Guide des bourses 
 
-[En construction.]
+[En construction!]
 
-Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide de développement professionnel est pour toi. On y répertorie des ressources qui pourraient t'aider: des liens vers des sources de financement, des exemples de dossiers d'applications à des stages et des bourses (CVs, lettres de motivation, projets, etc) et différents conseils.
+Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide de développement professionnel est pour toi. On y répertorie des ressources qui pourraient t'aider: des liens vers des sources de financement, des exemples de dossiers d'applications à des stages et des bourses (CVs, lettres de motivation, projets, etc) et différents conseils. 
 
 ## Où débuter?
  1. **Repère-toi.** Identifie les [ressources d'aide](/Guide-des-bourses-UQAM/debuter/ressources_soutien) à ta disposition et écris à tes professeurs (ou à nos [*personnes ressources*](/Guide-des-bourses-UQAM/index#nos-personnes-ressources) ci-dessous) pour demander conseil.
@@ -35,7 +35,8 @@ Tu ne sais pas par où débuter pour trouver un stage de recherche? Ce [billet d
 
 Tu peux nous écrire si tu as des questions ou besoin de conseils. On fera de notre mieux pour te répondre ou t'orienter vers les ressources adéquates.
 
-- **Anthony Coache** (bac et maîtrise en stat à l'UQÀM, supervisé par François Watier; maintenant étudiant au doctorat en statistique à l'université de Toronto). Tu peux lui écrire à anthony.coache [a commercial] gmail dot com.
+- **Jesse Gervais** (maîtrise en stat à l'UQAM 2019-2021, supervisé âr )
+- Anthony Coache** (bac et maîtrise en stat à l'UQÀM, supervisé par François Watier; maintenant étudiant au doctorat en statistique à l'université de Toronto). Tu peux lui écrire à anthony.coache [a commercial] gmail dot com.
 - **Olivier Binette** (bac en math et maîtrise à l'UQÀM, supervisé par Simon Guillotte; maintenant étudiant au doctorat en statistique à Duke University).  Tu peux lui écrire à olivier.binette [a commercial] duke dot edu pour organiser un appel skype.
 
 La plupart des [directeur-es de programme](https://math.uqam.ca/le-departement/direction/) sauront aussi t'orienter vers les bonnes ressources, et tu peux (essayer de) les contacter.  
